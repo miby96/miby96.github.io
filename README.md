@@ -1,4 +1,4 @@
-# miby96.github.io
+# Mb explorando en el paisaje
 # Hola bienvenid@s a mi blog, presentaré algunos conceptos sobre paisaje en mi travesía de estudio de maestría
 # partiré con concepto de paisaje en el siglo XX
 # continuaré con conceptos de paisaje, nuevos enfoques
