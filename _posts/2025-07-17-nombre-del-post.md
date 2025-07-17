@@ -1,8 +1,8 @@
----
-layout: post
-title: "Mi primera entrada"
-date: 2025-07-17
----
-
-¡Hola mundo! Esta es mi primera entrada en el blog.
+title: Mi Blog Personal
+description: Un espacio para compartir ideas
+author: Tu Nombre
+email: tunombre@email.com
+baseurl: ""
+url: "https://tu_usuario.github.io"
+theme: minima
 
