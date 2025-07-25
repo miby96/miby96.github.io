@@ -1,4 +1,10 @@
 title: "personalización"
 theme: jekyll-theme-cayman
 
-
+---
+layout: post
+title:  "Mi primer post"
+date:   2025-07-25 02:35:03 +0000
+categories: blog
+---
+¡Hola mundo! Este es mi primer post usando Jekyll y GitHub Pages.
